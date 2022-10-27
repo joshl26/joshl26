@@ -1,4 +1,8 @@
-
+<div id = "badges">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=KrystalZahng612&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26)](https://git.io/streak-stats)
 
