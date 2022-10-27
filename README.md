@@ -1,4 +1,4 @@
-<h1> Welcome to My GitHub Readme Page!! </h1>
+<h1>👨‍💻 Welcome to My GitHub Profile! ☕️</h1>
 <br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/joshrlehman/">
