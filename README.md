@@ -1,5 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1>👨‍💻 Welcome to My GitHub Profile! ☕️</h1>
 <br>
 <div id="badges">
