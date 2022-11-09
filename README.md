@@ -22,21 +22,14 @@
   <a href="http://blackrock3d.ca">
     <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
   </a>
-   <a>
-    <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
-  </a>
 </div>
-
 <br>
 <div id = "badges">
   <a>
     <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-
 <br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
