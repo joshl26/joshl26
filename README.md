@@ -34,5 +34,6 @@
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-<br> 
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
