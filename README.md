@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Leetcode-deeppink?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>  
   <a href="http://blackrock3d.ca">
-    <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+    <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white&theme=dark" alt="WordPress Badge"/>
   </a>
 </div>
 <br>
