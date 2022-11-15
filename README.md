@@ -24,12 +24,7 @@
   </a>
 </div>
 <br>
-<div id = "badges">
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
-<br>
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -48,6 +43,13 @@
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
 </p>
+
+<div id = "badges">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
