@@ -3,11 +3,11 @@
 
 ### A few things about me
 
-- 💻 I'm a web developer, engineer, programmer, ...
-- 📍 I'm from Canada
-- 🕸️ I am passionate about building webapps with React.js
-- 🤝 I like to meet new people
-- 🎾 I like to go camping and snowboarding
+- 💻 I'm a web developer, computer scientist, engineer and programmer.
+- 📍 I'm from Toronto, ontario, Canada.
+- 🕸️ I am passionate about building webapps with React.js.
+- 🤝 I like to meet new people.
+- 🎾 I like the outdoors, camping and snowboarding.
 
 ## 📫 How to reach me?
 
