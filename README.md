@@ -1,5 +1,4 @@
 <h1>👨‍💻 Welcome to My GitHub Profile! ☕️</h1>
-<br>
 
 ### A few things about me
 
@@ -14,7 +13,7 @@
 Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
 
 ## 📈 GitHub Stats
-
+<br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
