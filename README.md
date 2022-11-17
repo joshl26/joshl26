@@ -47,7 +47,6 @@
     <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-<br>
 
 ### A few things about me
 
