@@ -24,20 +24,6 @@
   </a>
 </div>
 
-### A few things about me
-
-- 💻 I'm a web developer, computer scientist, engineer and programmer.
-- 📍 I'm from Toronto, ontario, Canada.
-- 🕸️ I am passionate about building webapps with React.js.
-- 🤝 I like to meet new people.
-- 🎾 I like the outdoors, camping and snowboarding.
-
-## 📫 How to reach me?
-
-Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
-
-## 📈 GitHub Stats
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -62,6 +48,20 @@ Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
   </a>
 </div>
 <br>
+
+### A few things about me
+
+- 💻 I'm a web developer, computer scientist, engineer and programmer.
+- 📍 I'm from Toronto, ontario, Canada.
+- 🕸️ I am passionate about building webapps with React.js.
+- 🤝 I like to meet new people.
+- 🎾 I like the outdoors, camping and snowboarding.
+
+## 📫 How to reach me?
+
+Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
+
+## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
