@@ -45,15 +45,15 @@
 
 ### About me
 
-- 💻 I'm a web developer, computer scientist, engineer and programmer.
-- 📍 I'm from Toronto, Ontario, Canada.
-- 🕸️ I am passionate about building websites/webapps with React.js.
-- 🤝 I like to meet new people and network.
-- 🎾 I like the outdoors, camping and snowboarding.
+- 💻 I'm a designer, developer and engineer.
+- 📍 My hometown is Toronto, Ontario, Canada.
+- 🕸️ A passion of mine is building websites/webapps with JavaScript.
+- 🤝 I love to meet new people and network.
+- 🎾 I enjoy the outdoors, camping and snowboarding.
 
 ## 📫 How can you reach me?
 
-Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
+Feel free to reach me out to me [here](http://joshlehman.ca/contact)
 
 ## 📈 My GitHub Stats
 
