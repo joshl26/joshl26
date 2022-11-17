@@ -1,19 +1,5 @@
 <h1>👨‍💻 Welcome to My GitHub Profile! ☕️</h1>
 
-### A few things about me
-
-- 💻 I'm a web developer, computer scientist, engineer and programmer.
-- 📍 I'm from Toronto, ontario, Canada.
-- 🕸️ I am passionate about building webapps with React.js.
-- 🤝 I like to meet new people.
-- 🎾 I like the outdoors, camping and snowboarding.
-
-## 📫 How to reach me?
-
-Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
-
-## 📈 GitHub Stats
-<br/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -38,6 +24,22 @@ Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
   </a>
 </div>
 <br>
+
+### A few things about me
+
+- 💻 I'm a web developer, computer scientist, engineer and programmer.
+- 📍 I'm from Toronto, ontario, Canada.
+- 🕸️ I am passionate about building webapps with React.js.
+- 🤝 I like to meet new people.
+- 🎾 I like the outdoors, camping and snowboarding.
+
+## 📫 How to reach me?
+
+Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
+
+## 📈 GitHub Stats
+<br/>
+
 
 
 <p align="left">
