@@ -49,19 +49,19 @@
   </a>
 </div>
 
-### A few things about me
+### About me
 
 - 💻 I'm a web developer, computer scientist, engineer and programmer.
-- 📍 I'm from Toronto, ontario, Canada.
-- 🕸️ I am passionate about building webapps with React.js.
-- 🤝 I like to meet new people.
+- 📍 I'm from Toronto, Ontario, Canada.
+- 🕸️ I am passionate about building websites/webapps with React.js.
+- 🤝 I like to meet new people and network.
 - 🎾 I like the outdoors, camping and snowboarding.
 
-## 📫 How to reach me?
+## 📫 How can you reach me?
 
 Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
