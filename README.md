@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white&theme=dark" alt="WordPress Badge"/>
   </a>
 </div>
-<br>
 
 ### A few things about me
 
@@ -38,9 +37,6 @@
 Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
 
 ## 📈 GitHub Stats
-<br/>
-
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
