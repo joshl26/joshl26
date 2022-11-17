@@ -1,5 +1,20 @@
 <h1>👨‍💻 Welcome to My GitHub Profile! ☕️</h1>
 <br>
+
+### A few things about me
+
+- 💻 I'm a web developer, engineer, programmer, ...
+- 📍 I'm from Canada
+- 🕸️ I am passionate about building webapps with React.js
+- 🤝 I like to meet new people
+- 🎾 I like to go camping and snowboarding
+
+## 📫 How to reach me?
+
+Feel free to reach me out on any platforms [here](http://joshlehman.ca/contact)
+
+## 📈 GitHub Stats
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
