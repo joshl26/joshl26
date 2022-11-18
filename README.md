@@ -14,7 +14,7 @@
   <a href="http://blackrock3d.ca">
     <img src="https://img.shields.io/badge/Website-brown?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="[https://github.com/joshl2](https://stackoverflow.com/users/8840442/josh-lehman)">
+  <a href="[https://github.com/joshl26](https://stackoverflow.com/users/8840442/josh-lehman)">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="http://blackrock3d.ca">
