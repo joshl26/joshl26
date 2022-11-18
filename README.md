@@ -30,7 +30,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/REACT_icon.svg" width="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/NODEJS_icon.svg" width="50" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MONGODB_icon.svg" width="40" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MYSQL_icon.svg" width="60" alt="MySQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MYSQL_icon.svg" width="70" alt="MySQL" /></a>
 </p>
 
 <div id = "badges">
