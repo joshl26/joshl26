@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white&theme=dark" alt="WordPress Badge"/>
   </a>
 </div>
-<div style="height: 100px;"></div>
+<br/>
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/C%2B%2B_icon.svg" width="36" alt="Python" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/JS_icon.svg" width="36" alt="JavaScript" /></a>
