@@ -32,7 +32,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MONGODB_icon.svg" width="35" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MYSQL_icon.svg" width="70" alt="MySQL" /></a>
 </p>
-
+<br/>
 <div id = "badges">
   <a>
     <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
