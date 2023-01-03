@@ -22,8 +22,7 @@
   </a>
 </div>
 <br/>
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/C%2B%2B_icon.svg" width="36" alt="Python" /></a>
+<p align="left">  
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/JS_icon.svg" width="36" alt="JavaScript" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/ts-logo-128.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/ts-logo-128.svg" width="36" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/HTML5_icon.svg" width="30" alt="HTML5" /></a>
@@ -33,6 +32,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MONGODB_icon.svg" width="35" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MYSQL_icon.svg" width="70" alt="MySQL" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" width="36" alt="Docker" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/C%2B%2B_icon.svg" width="36" alt="C++" /></a>
 </p>
 <br/>
 <div id = "badges">
