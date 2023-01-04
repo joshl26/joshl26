@@ -29,6 +29,7 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CSS3_icon.svg" width="30" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/REACT_icon.svg" width="36" alt="React" /></a>
 <a style="padding:  0 10px 0 10px" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/NODEJS_icon.svg" width="60" alt="NodeJS" /></a>
+<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/SQL_icon.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/SQL_icon.svg" width="36" alt="SQL Azure Cloud DB"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MONGODB_icon.svg" width="35" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MYSQL_icon.svg" width="70" alt="MySQL" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" width="36" alt="Docker" /></a>
