@@ -59,3 +59,6 @@ Feel free to reach me out to me [here](http://joshlehman.ca/contact)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26&theme=prussian&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
