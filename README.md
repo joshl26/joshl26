@@ -56,7 +56,7 @@ Feel free to reach me out to me [here](http://joshlehman.ca/contact)
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+<!--[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) ](url)-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26&theme=prussian&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
