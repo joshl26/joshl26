@@ -50,7 +50,7 @@
 - 🤝 I love to meet new people and network.
 - 🎾 I enjoy the outdoors, camping and snowboarding.
 
-## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me at the email address below.  
+## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me at [here](http://joshlehman.ca/contact) 
 
 Feel free to reach me out to me [here](http://joshlehman.ca/contact)
 
