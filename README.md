@@ -44,13 +44,13 @@
 
 ### About me
 
-- 💻 I'm a designer, developer and engineer.
+- 💻 I'm an engineer (have a degree), designer, full stack developer and programmer.
 - 📍 My hometown is Toronto, Ontario, Canada.
 - 🕸️ A passion of mine is building websites/webapps with JavaScript.
 - 🤝 I love to meet new people and network.
 - 🎾 I enjoy the outdoors, camping and snowboarding.
 
-## 📫 How can you reach me?
+## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me at the email address below.  
 
 Feel free to reach me out to me [here](http://joshlehman.ca/contact)
 
