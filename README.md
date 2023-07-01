@@ -34,6 +34,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MONGODB_icon.svg" width="35" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MYSQL_icon.svg" width="70" alt="MySQL" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" width="36" alt="Docker" /></a>
+<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_icon.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_icon.png" width="36" alt="Jest" /></a>
  
 </p>
 <br/>
