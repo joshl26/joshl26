@@ -57,9 +57,9 @@
 ## Support my work here by Donating
 [Patreon](http://patreon.com/TheModernDeveloper)
 [Paypal](http://paypal.me/OpticDriver)
-[Bitcoin](1KWszwDxsjviQvTBHDQjAWkvqJHGCPcanb)
-[Etherium](0x20823Db64fE5623D7d2D84626ce2706aa6d56D69)
-[Litecoin](LYpp81xAYsf9i1tUrsfVK8bbfnVDWSYcAE)
+[Bitcoin](https://blockchair.com/bitcoin/address/1KWszwDxsjviQvTBHDQjAWkvqJHGCPcanb)
+[Etherium](https://blockchair.com/ethereum/address/0x20823db64fe5623d7d2d84626ce2706aa6d56d69)
+[Litecoin](https://blockchair.com/litecoin/address/LYpp81xAYsf9i1tUrsfVK8bbfnVDWSYcAE)
 
 ## 📈 My GitHub Stats
 
