@@ -54,6 +54,13 @@
 
 ## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me [here](http://joshlehman.ca/contact) 
 
+## Support my work here by Donating
+[Patreon](http://patreon.com/TheModernDeveloper)
+[Paypal](http://paypal.me/OpticDriver)
+[Bitcoin](1KWszwDxsjviQvTBHDQjAWkvqJHGCPcanb)
+[Etherium](0x20823Db64fE5623D7d2D84626ce2706aa6d56D69)
+[Litecoin](LYpp81xAYsf9i1tUrsfVK8bbfnVDWSYcAE)
+
 ## 📈 My GitHub Stats
 
 <!--[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) ](url)-->
