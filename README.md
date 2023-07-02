@@ -52,7 +52,7 @@
 - 🤝 I love to meet new people and network.
 - 🎾 I enjoy the outdoors, camping and snowboarding.
 
-## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me at [here](http://joshlehman.ca/contact) 
+## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me [here](http://joshlehman.ca/contact) 
 
 ## 📈 My GitHub Stats
 
