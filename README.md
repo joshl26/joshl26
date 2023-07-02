@@ -54,8 +54,6 @@
 
 ## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me at [here](http://joshlehman.ca/contact) 
 
-Feel free to reach me out to me [here](http://joshlehman.ca/contact)
-
 ## 📈 My GitHub Stats
 
 <!--[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) ](url)-->
