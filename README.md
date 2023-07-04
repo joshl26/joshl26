@@ -55,7 +55,7 @@
 ## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me [here](http://joshlehman.ca/contact) 
 
 ## Support my work here by Donating
-[Patreon](http://patreon.com/TheModernDeveloper)
+[Patreon](https://www.patreon.com/join/TheModernDeveloper/checkout?ru=undefined)
 [Paypal](https://www.paypal.com/donate/?hosted_button_id=PKXQX549ASWG8)
 [Bitcoin](https://blockchair.com/bitcoin/address/1KWszwDxsjviQvTBHDQjAWkvqJHGCPcanb)
 [Etherium](https://blockchair.com/ethereum/address/0x20823db64fe5623d7d2d84626ce2706aa6d56d69)
