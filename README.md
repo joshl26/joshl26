@@ -56,7 +56,7 @@
 
 ## Support my work here by Donating
 [Patreon](http://patreon.com/TheModernDeveloper)
-[Paypal]((https://www.paypal.com/donate/?hosted_button_id=PKXQX549ASWG8))
+[Paypal](https://www.paypal.com/donate/?hosted_button_id=PKXQX549ASWG8)
 [Bitcoin](https://blockchair.com/bitcoin/address/1KWszwDxsjviQvTBHDQjAWkvqJHGCPcanb)
 [Etherium](https://blockchair.com/ethereum/address/0x20823db64fe5623d7d2d84626ce2706aa6d56d69)
 [Litecoin](https://blockchair.com/litecoin/address/LYpp81xAYsf9i1tUrsfVK8bbfnVDWSYcAE)
