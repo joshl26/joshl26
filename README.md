@@ -46,9 +46,9 @@
 
 ### About me
 
-- 💻 I'm an engineer (have a degree), designer, full stack developer and programmer.
+- 💻 I'm a professional engineer, designer, full stack developer and programmer.
 - 📍 My hometown is Toronto, Ontario, Canada.
-- 🕸️ A passion of mine is building websites/webapps with JavaScript.
+- 🕸️ A passion of mine is building websites/web apps with JavaScript.
 - 🤝 I love to meet new people and network.
 - 🎾 I enjoy the outdoors, camping and snowboarding.
 
