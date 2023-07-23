@@ -24,6 +24,7 @@
 <br/>
 <p align="left">  
    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/C%2B%2B_icon.svg" width="36" alt="C++" /></a>
+  <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/python-logo-only.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/python-logo-only.png" width="36" alt="C++" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/JS_icon.svg" width="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/HTML5_icon.svg" width="30" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CSS3_icon.svg" width="30" alt="CSS3" /></a>
