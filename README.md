@@ -37,6 +37,7 @@
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/ts-logo-128.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/ts-logo-128.svg" width="36" alt="TypeScript" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_Icon.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_Icon.png" width="36" alt="Jest" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Cypress_Logomark_White-Color.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Cypress_Logomark_White-Color.png" width="36" alt="Jest" /></a>
+<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" width="36" alt="Jest" /></a>
  
 </p>
 <br/>
