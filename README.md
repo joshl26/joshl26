@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
   </a>
   <a href="http://blackrock3d.ca">
-    <img src="https://img.shields.io/badge/Website-brown?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/8840442/josh-lehman">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
