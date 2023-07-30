@@ -55,7 +55,7 @@
 - 🤝 I love to meet new people and network.
 - 🎾 I enjoy the outdoors, camping and snowboarding.
 
-## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me [here](joshlehman.dev@gmail.com) 
+## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me joshlehman.dev@gmail.com 
 
 ## Support my work here by Donating
 [Patreon](https://www.patreon.com/join/TheModernDeveloper/checkout?ru=undefined)
