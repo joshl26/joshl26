@@ -1,6 +1,6 @@
 <h1>👨‍💻 Welcome to My GitHub Profile! ☕️</h1>
 
-
+[![An image of @joshlehman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshlehman)](https://holopin.io/@joshlehman)
 <div id="badges">
   <a href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
