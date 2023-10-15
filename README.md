@@ -1,4 +1,4 @@
-### Hi There, my name is Josh Lehman
+## Hi There, my name is Josh Lehman
 
 - 💻 I'm a professional engineer, designer, full stack developer and programmer.
 - 📍 My hometown is Toronto, Ontario, Canada.
@@ -7,10 +7,9 @@
 - 🎾 I enjoy the outdoors, camping and snowboarding.
 
 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me here: [joshlehman.dev@gmail.com] 
-## 
+ 
 
 ## Skills :
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
