@@ -1,6 +1,16 @@
-<h1>👨‍💻 Welcome to My GitHub Profile! ☕️</h1>
+### Hi There, my name is Josh Lehman
 
-[![An image of @joshlehman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshlehman)](https://holopin.io/@joshlehman)
+- 💻 I'm a professional engineer, designer, full stack developer and programmer.
+- 📍 My hometown is Toronto, Ontario, Canada.
+- 🕸️ A passion of mine is building websites/web apps with JavaScript.
+- 🤝 I love to meet new people and network.
+- 🎾 I enjoy the outdoors, camping and snowboarding.
+
+📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me here: [joshlehman.dev@gmail.com] 
+## 
+
+## Skills :
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -48,22 +58,14 @@
   </a>
 </div>
 
-### About me
-
-- 💻 I'm a professional engineer, designer, full stack developer and programmer.
-- 📍 My hometown is Toronto, Ontario, Canada.
-- 🕸️ A passion of mine is building websites/web apps with JavaScript.
-- 🤝 I love to meet new people and network.
-- 🎾 I enjoy the outdoors, camping and snowboarding.
-
-## 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me (joshlehman.dev@gmail.com) 
-
 ## Support my work here by Donating
 [Patreon](https://www.patreon.com/join/TheModernDeveloper/checkout?ru=undefined)
 [Paypal](https://www.paypal.com/donate/?hosted_button_id=PKXQX549ASWG8)
 [Bitcoin](https://blockchair.com/bitcoin/address/1KWszwDxsjviQvTBHDQjAWkvqJHGCPcanb)
 [Etherium](https://blockchair.com/ethereum/address/0x20823db64fe5623d7d2d84626ce2706aa6d56d69)
 [Litecoin](https://blockchair.com/litecoin/address/LYpp81xAYsf9i1tUrsfVK8bbfnVDWSYcAE)
+
+[![An image of @joshlehman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshlehman)](https://holopin.io/@joshlehman)
 
 ## 📈 My GitHub Stats
 
