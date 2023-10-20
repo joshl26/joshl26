@@ -48,7 +48,7 @@
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_Icon.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_Icon.png" width="36" alt="Jest" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Cypress_Logomark_White-Color.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Cypress_Logomark_White-Color.png" width="36" alt="Jest" /></a>
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" width="36" alt="Jest" /></a>
- <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Nextjs-logo.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Nextjs-logo.svg" height="20" alt="NextJS" /></a>
+ <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/nextjs-icon.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/nextjs-icon.svg" width="36" alt="NextJS" /></a>
  <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Vitejs-logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Vitejs-logo.svg" alt="Vite" /></a>
 </p>
 <br/>
