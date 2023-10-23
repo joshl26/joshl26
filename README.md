@@ -50,6 +50,7 @@
 <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" width="36" alt="Jest" /></a>
  <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/nextjs-icon.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/nextjs-icon.svg" width="36" alt="NextJS" /></a>
  <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Vitejs-logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Vitejs-logo.svg" alt="Vite" /></a>
+  <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/postgresql-logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/postgresql-logo.svg" alt="Postgres" /></a>
 </p>
 <br/>
 <div id = "badges">
