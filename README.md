@@ -1,16 +1,15 @@
- <img style="width: 100%; transform: rotate(180);" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+<img style="width: 100%; transform: rotate(180);" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
 ## Hi, my name is Josh Lehman
 
-- 💻 I'm a professional engineer, designer, full stack developer and programmer.
+- 💻 I'm an experienced Mechanical and Software engineer. I am also a designer, full-stack developer and computer programmer.
 - 📍 My hometown is Toronto, Ontario, Canada.
-- 🕸️ A passion of mine is building websites/web apps with JavaScript.
-- 🤝 I love to meet new people and network.
-- 🎾 I enjoy the outdoors, camping and snowboarding.
+- 🕸️ A passion of mine is building software that solves real-world problems whether that be: Websites, web apps, SaaS, Blockchain, and many more!
+- 🤝 I love to meet new people and network. Check out my profiles on all the major social networks!
+- 🎾 I enjoy the outdoors, especially canoeing and camping on Crownland in Canada. During the colder months, I enjoy snowboarding.
 
 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? <br> Please contact me here: joshlehman.dev@gmail.com 
  
-
 ## Skills :
 <div style="text-decoration: none;"  id="badges">
   <button  href="https://www.linkedin.com/in/joshrlehman/">
