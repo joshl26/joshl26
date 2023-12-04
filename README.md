@@ -1,4 +1,6 @@
-## Hi There, my name is Josh Lehman
+ <img style="width: 100%; transform: rotate(180);" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+
+## Hi, my name is Josh Lehman
 
 - 💻 I'm a professional engineer, designer, full stack developer and programmer.
 - 📍 My hometown is Toronto, Ontario, Canada.
