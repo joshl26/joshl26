@@ -6,29 +6,29 @@
 - 🤝 I love to meet new people and network.
 - 🎾 I enjoy the outdoors, camping and snowboarding.
 
-📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? Please contact me here: [joshlehman.dev@gmail.com] 
+📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? <br> Please contact me here: joshlehman.dev@gmail.com 
  
 
 ## Skills :
-<div id="badges">
-  <a href="https://www.linkedin.com/in/joshrlehman/">
+<div style="text-decoration: none;"  id="badges">
+  <button  href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/joshl26">
+  </button>
+  <button style="text-decoration: none;" href="https://github.com/joshl26">
     <img src="https://img.shields.io/badge/GitHub-darkgrey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1R4aBeESYR1j9GYPYDYYjo3KC4w8gqS3q/view?usp=sharing">
+  </button>
+  <button style="text-decoration: none;" href="https://drive.google.com/file/d/1R4aBeESYR1j9GYPYDYYjo3KC4w8gqS3q/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV/Resume-darkgreen?style=for-the-badge&logo=cv/resume&logoColor=white" alt="CV/Resume Badge"/>
-  </a>
-  <a href="http://joshlehman.ca">
+  </button>
+  <button style="text-decoration: none;" href="http://joshlehman.ca">
     <img src="https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/8840442/josh-lehman">
+  </button>
+  <button href="https://stackoverflow.com/users/8840442/josh-lehman">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-  </a>
-  <a href="http://blackrock3d.ca">
+  </button>
+  <button href="http://blackrock3d.ca">
     <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white&theme=dark" alt="WordPress Badge"/>
-  </a>
+  </button>
 </div>
 <br/>
 <p align="left">  
@@ -66,7 +66,7 @@
 [Etherium](https://blockchair.com/ethereum/address/0x20823db64fe5623d7d2d84626ce2706aa6d56d69)
 [Litecoin](https://blockchair.com/litecoin/address/LYpp81xAYsf9i1tUrsfVK8bbfnVDWSYcAE)
 
-[![An image of @joshlehman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshlehman)](https://holopin.io/@joshlehman)
+<!-- [![An image of @joshlehman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshlehman)](https://holopin.io/@joshlehman)
 
 ## 📈 My GitHub Stats
 
@@ -74,6 +74,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26&theme=prussian&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+
