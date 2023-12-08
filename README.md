@@ -54,12 +54,6 @@
   <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/postgresql-logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/postgresql-logo.svg" alt="Postgres" /></a>
   <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/GraphQL_Logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/GraphQL_Logo.svg" alt="Postgres" /></a>
 </p>
-<br/>
-<div id = "badges">
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
 
 ## Support my work here by Donating
 [Patreon](https://www.patreon.com/join/TheModernDeveloper/checkout?ru=undefined)
@@ -75,7 +69,12 @@
 <!--[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshl26&layout=compact&theme=prussian&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) ](url)-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joshl26&theme=prussian&hide_border=true&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
+<br/>
+<div id = "badges">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=joshl26&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
 
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
