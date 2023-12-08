@@ -10,7 +10,7 @@
 
 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? <br> Please contact me here: joshlehman.dev@gmail.com 
  
-## Skills :
+## Skills
 <div style="text-decoration: none;"  id="badges">
   <button  href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
