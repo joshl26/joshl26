@@ -2,7 +2,7 @@
 
 ## My name is Josh Lehman
 
-- 💻 I'm an experienced Mechanical and Software engineer. I am also a designer, full-stack developer and computer programmer.
+- 💻 I'm an experienced Mechanical, Robotics and Software engineer. I am also a designer, full-stack developer and computer programmer.
 - 📍 My hometown is Toronto, Ontario, Canada.
 - 🕸️ A passion of mine is building software that solves real-world problems whether that be: Websites, web apps, SaaS, Blockchain, and many more!
 - 🤝 I love to meet new people and network. Check out my profiles on all the major social networks!
