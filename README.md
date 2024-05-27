@@ -29,27 +29,10 @@
   </button>
 </div>
 <br/>
-<p align="left">  
-   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/C%2B%2B_icon.svg" width="36" alt="C++" /></a>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/python-logo-only.png" width="36" alt="C++" /></a>
-  <a href="https://en.wikipedia.org/wiki/linux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/linux.svg" width="38" alt="Linux" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/JS_icon.svg" width="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/HTML5_icon.svg" width="30" alt="HTML5" /></a>  
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/CSS3_icon.svg" width="30" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/REACT_icon.svg" width="36" alt="React" /></a>
-<a style="padding:  0 10px 0 10px" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/NODEJS_icon.svg" width="60" alt="NodeJS" /></a>
-<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/SQL_icon.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/SQL_icon.svg" width="36" alt="SQL Azure Cloud DB"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MONGODB_icon.svg" width="35" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/MYSQL_icon.svg" width="70" alt="MySQL" /></a>
-<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Moby-logo.png" width="36" alt="Docker" /></a>
-<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/ts-logo-128.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/ts-logo-128.svg" width="36" alt="TypeScript" /></a>
-<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_Icon.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Jest_Icon.png" width="36" alt="Jest" /></a>
-<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Cypress_Logomark_White-Color.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Cypress_Logomark_White-Color.png" width="36" alt="Jest" /></a>
-<a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/swagger.svg" width="36" alt="Jest" /></a>
- <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/nextjs-icon.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/nextjs-icon.svg" width="36" alt="NextJS" /></a>
- <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Vitejs-logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/Vitejs-logo.svg" alt="Vite" /></a>
-  <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/postgresql-logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/postgresql-logo.svg" alt="Postgres" /></a>
-  <a href="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/GraphQL_Logo.svg"  target="_blank" rel="noreferrer"><img width="36" src="https://raw.githubusercontent.com/joshl26/joshl26/main/assets/GraphQL_Logo.svg" alt="Postgres" /></a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,arduino,autocad,aws,azure,babel,blender,bootstrap,c,cloudflare,codepen,cpp,css,cypress,debian,discord,docker,express,figma,firebase,flask,gatsby,git,github,gitlab,graphql,heroku,html,illustrator,javascript,jest,jquery,kubernetes,less,linux,lua,markdown,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,photoshop,php,pnpm,postgresql,postman,powershell,premiere,py,raspberrypi,react,redis,redux,regex,sass,selenium,sqlite,stackoverflow,supabase,svg,tailwind,threejs,typescript,ubuntu,vercel,visualstudio,vscode,webpack,windows,wordpress,xd,yarn" />
+  </a>
 </p>
 
 ## Support my work here by Donating
