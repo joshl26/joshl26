@@ -6,7 +6,7 @@
 - 📍 My hometown is Toronto, Ontario, Canada.
 - 🕸️ A passion of mine is building software that solves real-world problems whether that be: Websites, web apps, SaaS, Blockchain, and many more!
 - 🤝 I love to meet new people and network. Check out my profiles on all the major social networks!
-- 🎾 I enjoy the outdoors, especially canoeing and camping on Crownland in Canada. During the colder months, I enjoy snowboarding.
+- 🎾 I enjoy the outdoors, especially canoeing, camping and hiking. During the winter months, I enjoy snowboarding.
 
 📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? <br> Please contact me here: joshlehman.dev@gmail.com 
  
