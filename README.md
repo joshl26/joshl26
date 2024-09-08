@@ -12,21 +12,21 @@
  
 ## Skills
 <div style="text-decoration: none;"  id="badges">
-  <button  href="https://www.linkedin.com/in/joshrlehman/">
+  <a  href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </button>
-  <button style="text-decoration: none;" href="https://github.com/joshl26">
+  </a>
+  <a style="text-decoration: none;" href="https://github.com/joshl26">
     <img src="https://img.shields.io/badge/GitHub-darkgrey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </button>
-  <button style="text-decoration: none;" href="http://joshlehman.ca">
+  </a>
+  <a style="text-decoration: none;" href="http://joshlehman.ca">
     <img src="https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
-  </button>
-  <button href="https://stackoverflow.com/users/8840442/josh-lehman">
+  </a>
+  <a href="https://stackoverflow.com/users/8840442/josh-lehman">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-  </button>
-  <button href="http://blackrock3d.ca">
+  </a>
+  <a href="http://blackrock3d.ca">
     <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white&theme=dark" alt="WordPress Badge"/>
-  </button>
+  </a>
 </div>
 <br/>
 <p align="left">
