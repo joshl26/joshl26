@@ -8,7 +8,7 @@
 - 🤝 I love to meet new people and network. Check out my profiles on all the major social networks!
 - 🎾 I enjoy the outdoors, especially canoeing, camping and hiking. During the winter months, I enjoy snowboarding.
 
-📫 Looking for someone to collaborate on a project? Want to have a coffee chat? Or hire my services as a designer? <br> Please contact me here: joshlehman.dev@gmail.com 
+📫 Looking for someone to collaborate on a project? Want to have a chat? Or hire my services as a designer? <br> Please contact me here: joshlehman.dev@gmail.com 
  
 ## Skills
 <div style="text-decoration: none;"  id="badges">
