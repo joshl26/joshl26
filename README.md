@@ -4,7 +4,7 @@
 
 - 💻 I'm an experienced Mechanical, Robotics and Software engineer. I am also a Designer, Full-Stack Developer and Computer Programmer.
 - 📍 My hometown is Toronto, Ontario, Canada.
-- 🕸️ A passion of mine is building software that solves real-world problems whether that be: Websites, Web-Apps, SaaS, FinTech, Banking, Blockchain, Manufacturing, Medical, Aerospace and many more!
+- 🕸️ A passion of mine is building software that solves real-world problems whether that be: Websites, Web-App's, SaaS, FinTech, Banking, Blockchain, Manufacturing, Medical, Aerospace and many more!
 - 🤝 I love to meet new people and network. Check out my profiles on all the major social networks!
 - 🎾 I enjoy the outdoors, especially canoeing, camping and hiking. During the winter months, I enjoy snowboarding.
 
