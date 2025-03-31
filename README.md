@@ -24,8 +24,8 @@
   <a href="https://stackoverflow.com/users/8840442/josh-lehman">
     <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
-  <a href="http://blackrock3d.ca">
-    <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=wordpress&logoColor=white&theme=dark" alt="WordPress Badge"/>
+  <a href="http://blackrock-engineering.ca">
+    <img src="https://img.shields.io/badge/WordPress-darkblue?style=for-the-badge&logo=html&logoColor=white&theme=dark" alt="WordPress Badge"/>
   </a>
 </div>
 <br/>
