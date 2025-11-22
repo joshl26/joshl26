@@ -1,12 +1,12 @@
 <img style="width: 100%; transform: rotate(180);" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
-## My name is Josh Lehman
+## Josh Lehman
 
-- 💻 I'm an experienced Mechanical, Robotics and Software engineer. I am also a Designer, Full-Stack Developer and Computer Programmer.
-- 📍 My hometown is Toronto, Ontario, Canada.
-- 🕸️ A passion of mine is building software that solves real-world problems whether that be: Websites, Web-App's, SaaS, FinTech, Banking, Blockchain, Manufacturing, Medical, Aerospace and many more!
-- 🤝 I love to meet new people and network. Check out my profiles on all the major social networks!
-- 🎾 I enjoy the outdoors, especially canoeing, camping and hiking. During the winter months, I enjoy snowboarding.
+- 💻 I am an experienced Mechanical, Robotics, and Software Engineer with additional expertise as a Designer, Full-Stack Developer, and Computer Programmer.
+- 📍 Based in Toronto, Ontario, Canada.
+- 🕸️ I am passionate about developing software solutions that address real-world challenges across diverse industries including Web Development, SaaS, FinTech, Banking, Blockchain, Manufacturing, Medical, Aerospace, and more.
+- 🤝 I value building meaningful professional connections and welcome networking opportunities. Feel free to explore my profiles across major social platforms.
+- 🎾 Outside of work, I enjoy outdoor activities such as canoeing, camping, and hiking. In the winter, I am an avid snowboarder.
 
 📫 Looking for someone to collaborate on a project? Want to have a chat? Or hire my services as a designer? <br> Please contact me here: joshlehman.dev@gmail.com 
  
