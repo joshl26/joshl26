@@ -15,9 +15,6 @@
   <a  href="https://www.linkedin.com/in/joshrlehman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a style="text-decoration: none;" href="https://github.com/joshl26">
-    <img src="https://img.shields.io/badge/GitHub-darkgrey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
   <a style="text-decoration: none;" href="http://joshlehman.ca">
     <img src="https://img.shields.io/badge/Portfolio-brown?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
