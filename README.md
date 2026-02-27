@@ -1,6 +1,6 @@
 <img style="width: 100%; transform: rotate(180);" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
-## Josh Lehman
+## Joshua R. Lehman
 
 - 💻 I am an experienced Mechanical, Robotics, and Software Engineer with additional expertise as a Designer, Full-Stack Developer, and Computer Programmer.
 - 📍 Based in Toronto, Ontario, Canada.
