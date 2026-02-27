@@ -2,7 +2,7 @@
 
 ## Joshua R. Lehman
 
-- 💻 I am an experienced Mechanical, Robotics, and Software Engineer with additional expertise as a Designer, Full-Stack Developer, and Computer Programmer.
+- 💻 I am an experienced Hardware, Mechanical, Robotics, and Software Engineer with additional expertise as a Designer, Full-Stack web Developer and Computer Programmer/Scientist.
 - 📍 Based in Toronto, Ontario, Canada.
 - 🕸️ I am passionate about developing software solutions that address real-world challenges across diverse industries including Web Development, SaaS, FinTech, Banking, Blockchain, Manufacturing, Medical, Aerospace, and more.
 - 🤝 I value building meaningful professional connections and welcome networking opportunities. Feel free to explore my profiles across major social platforms.
