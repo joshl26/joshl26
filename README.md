@@ -29,10 +29,6 @@
   </a>
 </p>
 
-## Support my work here by Donating
-[Patreon](https://www.patreon.com/join/TheModernDeveloper/checkout?ru=undefined)
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=PKXQX549ASWG8)
-
 ## 📈 My GitHub Stats
 
 <div id = "badges">
