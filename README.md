@@ -8,7 +8,7 @@
 - 🤝 I value building meaningful professional connections and welcome networking opportunities. Feel free to explore my profiles across major social platforms.
 - 🎾 Outside of work, I enjoy outdoor activities such as canoeing, camping, and hiking. In the winter, I am an avid snowboarder.
 
-📫 Looking for someone to collaborate on a project? You can hire my services as an experienced hardware/software engineer: <br> josh@blackrock-engineering.ca 
+📫 Looking for someone to collaborate on a project? You can hire my services as an experienced hardware/software engineer: <br> josh@joshlehman.ca 
  
 ## Skills
 <div style="text-decoration: none;"  id="badges">
